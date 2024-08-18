@@ -1,8 +1,0 @@
-- links_category: About
-  has_thumbnail: false
-  list:
-    - name: About
-      link: /page/about/
-      description: 關於我的自傳介紹
-      # avatar: https://evan.beee.top/avatar.png
-      # thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
