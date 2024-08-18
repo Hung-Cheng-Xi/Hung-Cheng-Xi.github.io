@@ -47,3 +47,8 @@ navbar:
       enable: true
       # Preload search data when the page loads
       preload: true
+
+global:
+  google_analytics:
+    enable: true # Whether to enable Google Analytics
+    id: G-15HHLVNSFL # Google Analytics Measurement ID

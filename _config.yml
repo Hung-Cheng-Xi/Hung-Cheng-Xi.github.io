@@ -105,8 +105,3 @@ deploy:
   repo: git@github.com:Hung-Cheng-Xi/Hung-Cheng-Xi.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
-
-global:
-  google_analytics:
-    enable: true
-    id: G-15HHLVNSFL
