@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HI
+title: Hung Blog
 subtitle: ''
 description: ''
 keywords:
-author: Chenge Xi
-language: zh-tw
+author: Chenge XI
+language: zh-TW
 timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xi455.github.io/
+url: https://Hung-Cheng-Xi.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,6 +102,6 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xi455/xi455.github.io
+  repo: git@github.com:Hung-Cheng-Xi/Hung-Cheng-Xi.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
