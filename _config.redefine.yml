@@ -6,6 +6,6 @@ navbar:
     Archives:
       path: /archives/
       icon: fa-regular fa-box-archive # Fontawesome图标名称（可选）
-    About Me:
-      path: /page/about-me/
+    About:
+      path: /page/about/
       icon: fa-regular fa-address-card # Fontawesome图标名称（可选）
