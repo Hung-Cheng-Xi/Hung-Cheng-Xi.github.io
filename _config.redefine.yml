@@ -2,11 +2,6 @@ info:
   title: Blog
   author: Chenge XI
 
-home_banner:
-  enable: true
-  static: fixed
-  title: HaHa
-
 home:
   sidebar:
     enable: true
@@ -23,6 +18,11 @@ home:
       Categories: # 显示的名称
         path: /categories # 路径
         icon: fa-regular fa-folder # 图标，可以为空
+
+home_banner:
+  enable: true
+  static: fixed
+  title: HaHa
 
 navbar:
   links:
@@ -42,6 +42,8 @@ navbar:
       path: /about/
       icon: fa-regular fa-address-card # Fontawesome图标名称（可选）
 
-search:
-  enable: true
-  preload: true
+  search:
+      # Whether to enable
+      enable: false
+      # Preload search data when the page loads
+      preload: true
