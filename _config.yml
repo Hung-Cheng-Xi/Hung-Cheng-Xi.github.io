@@ -106,13 +106,6 @@ deploy:
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
 
-# 文章搜尋功能
-search:
-  path: search.json
-  field: post
-  content: true
-  format: html
-
 global:
   google_analytics:
     enable: true

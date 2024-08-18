@@ -44,6 +44,6 @@ navbar:
 
   search:
       # Whether to enable
-      enable: false
+      enable: true
       # Preload search data when the page loads
       preload: true
