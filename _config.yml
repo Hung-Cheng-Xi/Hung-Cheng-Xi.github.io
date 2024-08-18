@@ -105,3 +105,9 @@ deploy:
   repo: git@github.com:Hung-Cheng-Xi/Hung-Cheng-Xi.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

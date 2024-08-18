@@ -1,3 +1,29 @@
+info:
+  title: Blog
+  author: Chenge XI
+
+home_banner:
+  enable: true
+  static: fixed
+  title: HaHa
+
+home:
+  sidebar:
+    enable: true
+    position: left
+    first_item: menu
+
+    links:
+      Archives: # 显示的名称
+        path: /archives # 路径
+        icon: fa-regular fa-archive # 图标，可以为空
+      Tags: # 显示的名称
+        path: /tags # 路径
+        icon: fa-regular fa-tags # 图标，可以为空
+      Categories: # 显示的名称
+        path: /categories # 路径
+        icon: fa-regular fa-folder # 图标，可以为空
+
 navbar:
   links:
     Home: # 一级菜单栏名称
@@ -6,6 +32,16 @@ navbar:
     Archives:
       path: /archives/
       icon: fa-regular fa-box-archive # Fontawesome图标名称（可选）
+    Tag:
+      path: /tags/
+      icon: fa-solid fa-tag # Fontawesome图标名称（可选）
+    Categories: #取名随意
+        icon: fa-solid fa-folder #图标
+        path: /categories/ #链接
     About:
-      path: /page/about/
+      path: /about/
       icon: fa-regular fa-address-card # Fontawesome图标名称（可选）
+
+search:
+  enable: true
+  preload: true
