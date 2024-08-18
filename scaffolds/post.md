@@ -9,10 +9,8 @@ tags:
     - "UVA"
 categories: code
 ---
-## 題目名稱
-
 ### 題目來源
-- **來源平台**：例如 LeetCode, Codeforces, 或書籍名稱
+- **來源平台**：vjudge 平台收錄 UVA 題目
 - **題目編號**：例如 Problem 67
 - **連結**：[題目連結](https://example.com)
 
@@ -39,3 +37,4 @@ int main() {
     // 代碼內容
     return 0;
 }
+```
