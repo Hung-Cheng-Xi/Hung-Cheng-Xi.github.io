@@ -24,7 +24,7 @@ home:
 
 home_banner:
   enable: true
-  static: fixed
+  style: fixed
   title: HaHa
 
 navbar:
