@@ -10,7 +10,7 @@ categories: code
 ---
 ### 題目來源
 - **來源平台**：vjudge 平台收錄 UVA 題目
-- **題目編號**：例如 Problem 67
+- **題目編號**：UVA-
 - **連結**：[題目連結](https://example.com)
 
 ### 題目描述
