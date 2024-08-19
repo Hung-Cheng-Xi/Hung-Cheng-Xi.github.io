@@ -2,6 +2,9 @@ info:
   title: Blog
   author: Chenge XI
 
+defaults:
+  avatar: https://avatars.githubusercontent.com/u/157833389?v=4
+
 home:
   sidebar:
     enable: true
