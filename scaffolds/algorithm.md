@@ -6,7 +6,6 @@ tags:
   - code
   - 演算法實作
 categories: 演算法實作
-categories: code
 ---
 ## [演算法名稱] 演算法
 
