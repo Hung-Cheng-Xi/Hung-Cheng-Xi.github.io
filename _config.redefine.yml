@@ -41,9 +41,6 @@ navbar:
     Categories: #取名随意
         icon: fa-solid fa-folder #图标
         path: /categories/ #链接
-    About:
-      path: /about/
-      icon: fa-regular fa-address-card # Fontawesome图标名称（可选）
 
   search:
       # Whether to enable
